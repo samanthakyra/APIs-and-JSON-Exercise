@@ -15,3 +15,11 @@
 /Users/samanthakyramendoza/Desktop/repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.pdb
 /Users/samanthakyramendoza/Desktop/repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.genruntimeconfig.cache
 /Users/samanthakyramendoza/Desktop/repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/ref/APIsAndJSON.dll
+/Users/samanthakyramendoza/Desktop/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/samanthakyramendoza/Desktop/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/samanthakyramendoza/Desktop/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/samanthakyramendoza/Desktop/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/samanthakyramendoza/Desktop/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/samanthakyramendoza/Desktop/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/samanthakyramendoza/Desktop/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/samanthakyramendoza/Desktop/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll

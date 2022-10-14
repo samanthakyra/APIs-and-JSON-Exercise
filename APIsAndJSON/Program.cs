@@ -18,8 +18,18 @@ namespace APIsAndJSON
 
             }
 
-        }
+            string key = File.ReadAllText("appsettings.json");
+            string APIKey = JObject.Parse(key).GetValue("APIKey").ToString();
 
+            Console.WriteLine("Enter a city: ");
+            var city = Console.ReadLine();
+
+            var apiCall = $"https://api.openweathermap.org/data/2.5/weather?q=%7Bcity%7D&units=imperial&appid=%7BAPIKey%7D";
+            Console.WriteLine();
+
+            Console.WriteLine($"It is currently {OpenWeatherMapAPI.GetTemp(apiCall)} degrees F in this city.");
+
+        }
 
     }
 }

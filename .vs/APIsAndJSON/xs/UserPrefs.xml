@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIsAndJSON/OpenWeatherMapAPI.cs">
+    <Files>
+      <File FileName="APIsAndJSON/Program.cs" Line="14" Column="40" />
+      <File FileName="APIsAndJSON/RonVSKanyeAPI.cs" Line="18" Column="10" />
+      <File FileName="APIsAndJSON/OpenWeatherMapAPI.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="APIsAndJSON" expanded="True">
+            <Node name=".git" expanded="True">
+              <Node name="index" selected="True" />
+            </Node>
+            <Node name="APIsAndJSON" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="bin" expanded="True">
+                <Node name="Debug" expanded="True">
+                  <Node name="net6.0" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.APIsAndJSON PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

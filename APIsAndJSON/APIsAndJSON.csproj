@@ -9,8 +9,10 @@
 
   <ItemGroup>
     <None Remove="Newtonsoft.Json" />
+    <None Remove="Microsoft.Extensions.Configuration.Json" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
   </ItemGroup>
 </Project>
